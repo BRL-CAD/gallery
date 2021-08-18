@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: '14'
 
-      - run: apt install --yes libimage-exiftool-perl graphicsmagick
+      - run: sudo apt install --yes libimage-exiftool-perl graphicsmagick
       - run: npm i -g thumbsup
       - run: ./thumbsup.sh
 
