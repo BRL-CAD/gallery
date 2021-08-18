@@ -1,0 +1,43 @@
+= README
+
+== Install https://thumbsup.github.io/[thumbsup^]
+
+. https://github.com/nvm-sh/nvm#installation-and-update[Install `nvm`^]:
++
+[source,bash]
+....
+wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+source ~/.bashrc
+command -v nvm
+....
+
+. Install Node.js:
++
+[source,bash]
+....
+nvm install --lts
+node --version
+....
+
+. Install https://thumbsup.github.io/[thumbsup^]:
++
+[source,bash]
+....
+npm install -g thumbsup
+thumbsup --help
+....
+
+. Make sure that the dependencies (Exiftool and GraphicsMagick) are
+installed:
+
+[source,bash]
+....
+apt install libimage-exiftool-perl graphicsmagick
+....
+
+
+== Build the HTML pages of the gallery
+
+`./thumbsup.sh`
+
+The output is saved on the directory `html/`.
