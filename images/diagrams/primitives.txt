@@ -1,0 +1,1 @@
+Composite rendering of the primary BRL-CAD primitives grouped according to major type with their corresponding short-name labels.

@@ -1,0 +1,1 @@
+HMMWV polygonal global illumination render using ADRT

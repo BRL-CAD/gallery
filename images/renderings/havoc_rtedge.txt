@@ -1,0 +1,1 @@
+BRL-CAD rtedge hidden line rendering of an Mi28 Havoc Russian Attack Helicopter

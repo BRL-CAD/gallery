@@ -1,0 +1,1 @@
+BRL-CAD right-handed coordinate system where +Z is up 

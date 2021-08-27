@@ -1,0 +1,1 @@
+Super sophisticated lamp render with 128 shadow rays. Took a... while.

@@ -1,0 +1,1 @@
+Visual effects with an imported DXF model and an image of Titan. An example of visual effects - this uses an imported DXF model of the Cassini probe, the glass shader settings for transparency and an image of Titan rendered onto a background arb8.

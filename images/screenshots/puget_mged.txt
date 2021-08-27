@@ -1,0 +1,3 @@
+Puget Sound rendering screenshot This Puget Sound rendering was made by converting high-resolution terrain data available from http://www.cc.gatech.edu/projects/large_models/ps.html into a BRL-CAD &quot;dsp&quot; displacement map (i.e. terrain) primitive.
+
+Elevation values are intentionally exaggerated  for visual effect and emphasis.

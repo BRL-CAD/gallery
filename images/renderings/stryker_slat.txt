@@ -1,0 +1,5 @@
+Stryker ICV w/ Slat Armor rendered with ADRT/RISE.
+
+Many will notice the seemingly long render time, but there are a few details that make this image substantial and impressive.   More than 8 *trillion* rays were fired at this 11M polygon scene, amounting to more than 20M rays per second on 2004 hardware.  A full light simulation was computed to generate the image with all exterior AND interior vehicle detail including every nut, bolt, wire, and component inside the vehicle, every leaf and blade of grass modeled as actual geometry (there are no textures, no procedural geometry).
+
+The ADRT/RISE code has since been further optimized to produce even faster results (more than double) on the same hardware.  ADRT is a special purpose renderer in BRL-CAD, distinct from the default RT renderer.

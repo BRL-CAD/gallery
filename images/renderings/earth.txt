@@ -1,0 +1,1 @@
+A cutaway model of the Earth. Dimensions should be fairly close to correct, and the first three layers of the atmosphere are also present. Image from NASA used as a texture map to create surface appearance.

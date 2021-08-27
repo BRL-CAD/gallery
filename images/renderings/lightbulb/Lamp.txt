@@ -1,0 +1,1 @@
+Lamp scene with modified lampshade, and special material shaders put on many of the objects in the scene.

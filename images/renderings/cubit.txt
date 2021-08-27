@@ -1,0 +1,1 @@
+Conversion of a BRL-CAD target description to a finite element mesh (FEM), using the BRL-CAD g-sat exporter and Cubit from Sandia National Labs.

@@ -1,0 +1,1 @@
+PA-63 Extractor: rt and rtedge rendering from within mged of a gun extractor modeled according to specific diagram dimensions

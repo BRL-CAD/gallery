@@ -1,0 +1,1 @@
+Non-textured ray-trace and wireframe screenshot of imported GNU-TUX model

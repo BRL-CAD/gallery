@@ -1,0 +1,1 @@
+OpenMoko phone case IGES file imported into BRL-CAD. (BREP wireframe-only) The OpenMoko project has released IGES and STEP files for their phone case: http://downloads.openmoko.org/CAD/  This screenshot shows an import into BRL-CAD of the IGES file.
